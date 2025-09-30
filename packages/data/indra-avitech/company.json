@@ -1,0 +1,21 @@
+{
+  "address": {
+    "street": "Bahnhofplatz 3",
+    "city": "Friedrichshafen",
+    "zip": "88045",
+    "country": "DE"
+  },
+  "description": "Indra Avitech GmbH is one of the leading international developers of IT systems for the aviation industry. Our expertise ranges from single components to complete solutions. We offer flexible working, 30 days holiday, and support for individual development.",
+  "domain": ["Aviation IT Systems"],
+  "name": "Indra Avitech GmbH",
+  "requirements": [
+    "2+ years of experience developing with React, preferably with TypeScript",
+    "Production value and attention to detail",
+    "Experience communicating with cross-functional and technical teams, and product management",
+    "Relevant experience in Webpack, NPM, Yarn",
+    "Basic understanding of CSS Modules, SASS, and component libraries such as Ant Design",
+    "Background in building complex user-facing features and writing maintainable code",
+    "Good command of English; German is a plus",
+    "Work-life balance, mobile working, and international teams"
+  ]
+}

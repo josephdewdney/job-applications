@@ -1,0 +1,10 @@
+- Use 'otherProps' for any additional props
+- You will find the backend in api.ts
+- Infer types where possible.
+- Always read the relative imports before responding.
+- Do not use barrel files.
+- Always check `/components` for components that can be used.
+- Use the cn utility for class names.
+- Do not use React.componentProps
+- Use camelCase for all zod schema and use PascalCase for TypeScript types.
+- When using useQuery or useMutation always deconstruct the data and error from the response. Do not use `const response = useQuery(...)` or `const response = useMutation(...)`.

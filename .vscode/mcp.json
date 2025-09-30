@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "seren": {
+      "command": "bun",
+      "args": [
+        "/Users/josephwilliamdewdney/Programming/my-chart-library/apps/mcp-server/src/index.ts"
+      ]
+    },
+    "shadcn": {
+      "command": "npx",
+      "args": ["shadcn@latest", "mcp"]
+    }
+  }
+}

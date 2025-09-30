@@ -1,0 +1,14 @@
+{
+  "name": "@workspace/data",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "zod": "^3.25.76"
+  },
+  "exports": {
+    "./schema": "./schema.ts",
+    "./personal": "./personal.ts",
+    "./cv": "./cv.ts"
+  }
+}
